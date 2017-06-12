@@ -1,0 +1,5 @@
+Package: bto_advanced_cmd_go%%DBG%%
+Maintainer: Yuya Adachi <moguriso@tizen.moe>
+Architecture: %%ARCH%%
+Version: 1.0.0
+Description: .

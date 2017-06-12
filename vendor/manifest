@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "repository": "https://github.com/kylelemons/gousb",
+      "importpath": "github.com/kylelemons/gousb/usb",
+      "path": "/usb",
+      "branch": "master"
+    },
+    {
+      "repository": "https://github.com/kylelemons/gousb",
+      "importpath": "github.com/kylelemons/gousb/usbid",
+      "path": "/usbid",
+      "branch": "master"
+    }
+  ],
+  "version": 0
+}
